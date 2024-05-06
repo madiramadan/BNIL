@@ -1,0 +1,61 @@
+/* Home */
+/*.logo-utama{background:#fff;}*/
+.swiper-slide__inner-home{position:absolute !important;}
+.main-slider-three h2{font-size:30px !important;line-height:38px !important;}
+.font_bella{font-size:50px;}
+.main-slider-three #main-slider-pagination{bottom:40px !important;}
+#main-slider-pagination .swiper-pagination-bullet{width:10px;height:10px;}
+.you-can-help .block-title h2{line-height:32px;}
+
+/* Section Ingin */
+.label-ingin{min-height:unset !important;line-height:24px !important;padding-top:8px;}
+.info-ingin{padding:0px 20px;font-size:14px;line-height:20px;}
+.label-perlindungan{text-align:center;background:#006885;padding-top:10px !important;padding-bottom:6px !important;border-radius:8px;min-height:85px;box-shadow: 2px 4px 10px #888888;}
+.label-perlindungan p{font-size:10px !important;line-height:14px !important;}
+.perlindunganjiwahome{margin-bottom:20px;}
+.ingin-slider-nav{top: 35%;left: 50%;max-width: 1170px;width: 100%;display: flex;align-items: center;justify-content: center;position: absolute;transform: translate(-50%, -50%);z-index: 9;justify-content: space-between;}
+.ingin-slider-nav .main-slider-button-prev{border:none;background:none;}
+.ingin-slider-nav .main-slider-button-prev i{color:#000;font-size:20px;}
+.ingin-slider-nav .main-slider-button-next{border:none;background:none;}
+.ingin-slider-nav .main-slider-button-next i{color:#000;font-size:20px;}
+
+/* Section Bella */
+.lindungi{margin-top:28px;margin-bottom:60px;}
+.lindungi .judul{font-size:20px;line-height:28px;text-shadow:unset;}
+.btn-color-white ngobrol_billa{padding:8px 10px !important;}
+
+/* Beragam Kemudahan */
+.linklayanan{display:unset;font-size:14px;}
+.lokasi{padding:6px 2px;background:#fff;border:1px solid;width:90%;}
+
+/* Video */
+.videoz .title_video{font-size:14px !important;line-height:18px !important;color:#585757;display: flex;padding-left: 10px;padding-top: 0px;}
+.videoz{margin-top:10px;margin-bottom:10px;}
+.videoz a{color:#585757;}
+.videoz.aktif a{color:#F15922;}
+.playbutton .img{width:50px !important;}
+.ytplayer{margin-bottom:10px;}
+
+/* Testi */
+#testi-slider-pagination .swiper-pagination-bullet{width:10px;height:10px;background-color:#fff !important;}
+#testi-slider-pagination .swiper-pagination-bullet-active{background-color:#F15922 !important;}
+.main-slider .swiper-slide__inner{padding-top:230px;}
+.isi-testi p{font-size: 18px !important;line-height: 26px !important;}
+
+/* Promo 2*/
+.banner2-title{font-size:20px;line-height:28px;margin-top:40px;}
+.banner2-img{float:none;padding:0px;}
+
+/* Life Blog */
+.nop_r{padding-right:5px !important;}
+.nop_l{padding-left:5px !important;}
+
+/* Widget */
+.widget label, .widget span{font-size:14px !important;}
+
+@media only screen and (max-width: 799px) {
+	.main-slider-three .swiper-slide__inner-home {
+	  padding-bottom: 0px !important;
+	}
+	.block-title p{font-size:16px;line-height:22px;}
+}
